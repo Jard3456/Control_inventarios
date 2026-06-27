@@ -1,0 +1,12 @@
+C:\Users\jrodr\Desktop\Sistema Inventarios\ControlInventarios.Domain\bin\Debug\net10.0\ControlInventarios.Domain.deps.json
+C:\Users\jrodr\Desktop\Sistema Inventarios\ControlInventarios.Domain\bin\Debug\net10.0\ControlInventarios.Domain.dll
+C:\Users\jrodr\Desktop\Sistema Inventarios\ControlInventarios.Domain\bin\Debug\net10.0\ControlInventarios.Domain.pdb
+C:\Users\jrodr\Desktop\Sistema Inventarios\ControlInventarios.Domain\obj\Debug\net10.0\ControlInventarios.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jrodr\Desktop\Sistema Inventarios\ControlInventarios.Domain\obj\Debug\net10.0\ControlInventarios.Domain.AssemblyInfoInputs.cache
+C:\Users\jrodr\Desktop\Sistema Inventarios\ControlInventarios.Domain\obj\Debug\net10.0\ControlInventarios.Domain.AssemblyInfo.cs
+C:\Users\jrodr\Desktop\Sistema Inventarios\ControlInventarios.Domain\obj\Debug\net10.0\ControlInventarios.Domain.csproj.CoreCompileInputs.cache
+C:\Users\jrodr\Desktop\Sistema Inventarios\ControlInventarios.Domain\obj\Debug\net10.0\ControlInventarios.Domain.sourcelink.json
+C:\Users\jrodr\Desktop\Sistema Inventarios\ControlInventarios.Domain\obj\Debug\net10.0\ControlInventarios.Domain.dll
+C:\Users\jrodr\Desktop\Sistema Inventarios\ControlInventarios.Domain\obj\Debug\net10.0\refint\ControlInventarios.Domain.dll
+C:\Users\jrodr\Desktop\Sistema Inventarios\ControlInventarios.Domain\obj\Debug\net10.0\ControlInventarios.Domain.pdb
+C:\Users\jrodr\Desktop\Sistema Inventarios\ControlInventarios.Domain\obj\Debug\net10.0\ref\ControlInventarios.Domain.dll

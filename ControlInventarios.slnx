@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="ControlInventarios.Application/ControlInventarios.Application.csproj" />
+  <Project Path="ControlInventarios.Domain/ControlInventarios.Domain.csproj" />
+  <Project Path="ControlInventarios.infraestructure/ControlInventarios.infraestructure.csproj" />
+  <Project Path="ControlInventarios.WebApi/ControlInventarios.WebApi.csproj" />
+</Solution>
+

@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "ControlInventarios.Application/1.0.0": {
+        "dependencies": {
+          "ControlInventarios.Domain": "1.0.0"
+        },
+        "runtime": {
+          "ControlInventarios.Application.dll": {}
+        }
+      },
+      "ControlInventarios.Domain/1.0.0": {
+        "runtime": {
+          "ControlInventarios.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ControlInventarios.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ControlInventarios.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

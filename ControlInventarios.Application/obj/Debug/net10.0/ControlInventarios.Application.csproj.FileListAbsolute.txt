@@ -1,0 +1,16 @@
+C:\Users\jrodr\Desktop\Sistema Inventarios\ControlInventarios.Application\bin\Debug\net10.0\ControlInventarios.Application.deps.json
+C:\Users\jrodr\Desktop\Sistema Inventarios\ControlInventarios.Application\bin\Debug\net10.0\ControlInventarios.Application.dll
+C:\Users\jrodr\Desktop\Sistema Inventarios\ControlInventarios.Application\bin\Debug\net10.0\ControlInventarios.Application.pdb
+C:\Users\jrodr\Desktop\Sistema Inventarios\ControlInventarios.Application\bin\Debug\net10.0\ControlInventarios.Domain.dll
+C:\Users\jrodr\Desktop\Sistema Inventarios\ControlInventarios.Application\bin\Debug\net10.0\ControlInventarios.Domain.pdb
+C:\Users\jrodr\Desktop\Sistema Inventarios\ControlInventarios.Application\obj\Debug\net10.0\ControlInventarios.Application.csproj.AssemblyReference.cache
+C:\Users\jrodr\Desktop\Sistema Inventarios\ControlInventarios.Application\obj\Debug\net10.0\ControlInventarios.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jrodr\Desktop\Sistema Inventarios\ControlInventarios.Application\obj\Debug\net10.0\ControlInventarios.Application.AssemblyInfoInputs.cache
+C:\Users\jrodr\Desktop\Sistema Inventarios\ControlInventarios.Application\obj\Debug\net10.0\ControlInventarios.Application.AssemblyInfo.cs
+C:\Users\jrodr\Desktop\Sistema Inventarios\ControlInventarios.Application\obj\Debug\net10.0\ControlInventarios.Application.csproj.CoreCompileInputs.cache
+C:\Users\jrodr\Desktop\Sistema Inventarios\ControlInventarios.Application\obj\Debug\net10.0\ControlInventarios.Application.sourcelink.json
+C:\Users\jrodr\Desktop\Sistema Inventarios\ControlInventarios.Application\obj\Debug\net10.0\ControlI.CF11B1CC.Up2Date
+C:\Users\jrodr\Desktop\Sistema Inventarios\ControlInventarios.Application\obj\Debug\net10.0\ControlInventarios.Application.dll
+C:\Users\jrodr\Desktop\Sistema Inventarios\ControlInventarios.Application\obj\Debug\net10.0\refint\ControlInventarios.Application.dll
+C:\Users\jrodr\Desktop\Sistema Inventarios\ControlInventarios.Application\obj\Debug\net10.0\ControlInventarios.Application.pdb
+C:\Users\jrodr\Desktop\Sistema Inventarios\ControlInventarios.Application\obj\Debug\net10.0\ref\ControlInventarios.Application.dll
