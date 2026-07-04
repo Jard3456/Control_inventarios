@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jrodr\\Desktop\\Sistema Inventarios\\ControlInventarios.WebAPI\\ControlInventarios.WebAPI.csproj": {}
+    "C:\\Users\\jrodr\\Desktop\\Sistema Inventarios\\ControlInventarios.WebApi\\ControlInventarios.WebApi.csproj": {}
   },
   "projects": {
     "C:\\Users\\jrodr\\Desktop\\Sistema Inventarios\\ControlInventarios.Application\\ControlInventarios.Application.csproj": {
@@ -1026,14 +1026,14 @@
         }
       }
     },
-    "C:\\Users\\jrodr\\Desktop\\Sistema Inventarios\\ControlInventarios.WebAPI\\ControlInventarios.WebAPI.csproj": {
+    "C:\\Users\\jrodr\\Desktop\\Sistema Inventarios\\ControlInventarios.WebApi\\ControlInventarios.WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jrodr\\Desktop\\Sistema Inventarios\\ControlInventarios.WebAPI\\ControlInventarios.WebAPI.csproj",
-        "projectName": "ControlInventarios.WebAPI",
-        "projectPath": "C:\\Users\\jrodr\\Desktop\\Sistema Inventarios\\ControlInventarios.WebAPI\\ControlInventarios.WebAPI.csproj",
+        "projectUniqueName": "C:\\Users\\jrodr\\Desktop\\Sistema Inventarios\\ControlInventarios.WebApi\\ControlInventarios.WebApi.csproj",
+        "projectName": "ControlInventarios.WebApi",
+        "projectPath": "C:\\Users\\jrodr\\Desktop\\Sistema Inventarios\\ControlInventarios.WebApi\\ControlInventarios.WebApi.csproj",
         "packagesPath": "C:\\Users\\jrodr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jrodr\\Desktop\\Sistema Inventarios\\ControlInventarios.WebAPI\\obj\\",
+        "outputPath": "C:\\Users\\jrodr\\Desktop\\Sistema Inventarios\\ControlInventarios.WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jrodr\\AppData\\Roaming\\NuGet\\NuGet.Config"

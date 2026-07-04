@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
-using ControlInventarios.infraestructure.Persistence;
+using ControlInventarios.Application.DTOs;
+using ControlInventarios.Application.Interfaces;
 
 namespace ControlInventarios.WebAPI.Controllers;
 
@@ -8,18 +8,60 @@ namespace ControlInventarios.WebAPI.Controllers;
 [Route("api/[controller]")]
 public class CategoriasController : ControllerBase
 {
-    private readonly ControlInventariosDbContext _context;
+    private readonly ICategoriaService _categoriaService;
 
-    public CategoriasController(ControlInventariosDbContext context)
+    public CategoriasController(ICategoriaService categoriaService)
     {
-        _context = context;
+        _categoriaService = categoriaService;
     }
 
     [HttpGet]
-    public async Task<IActionResult> ObtenerCategorias()
+    public async Task<ActionResult<IEnumerable<CategoriaDto>>> ObtenerTodas()
     {
-        var categorias = await _context.Categorias.ToListAsync();
+        return Ok(await _categoriaService.ObtenerTodasAsync());
+    }
 
-        return Ok(categorias);
+    [HttpGet("{id:int}")]
+    public async Task<ActionResult<CategoriaDto>> ObtenerPorId(int id)
+    {
+        var categoria = await _categoriaService.ObtenerPorIdAsync(id);
+
+        if (categoria == null)
+            return NotFound();
+
+        return Ok(categoria);
+    }
+
+    [HttpPost]
+    public async Task<ActionResult<CategoriaDto>> Crear(CategoriaDto categoria)
+    {
+        var nuevaCategoria = await _categoriaService.CrearAsync(categoria);
+
+        return CreatedAtAction(
+            nameof(ObtenerPorId),
+            new { id = nuevaCategoria.Id },
+            nuevaCategoria);
+    }
+
+    [HttpPut("{id:int}")]
+    public async Task<IActionResult> Actualizar(int id, CategoriaDto categoria)
+    {
+        var actualizado = await _categoriaService.ActualizarAsync(id, categoria);
+
+        if (!actualizado)
+            return NotFound();
+
+        return NoContent();
+    }
+
+    [HttpDelete("{id:int}")]
+    public async Task<IActionResult> Eliminar(int id)
+    {
+        var eliminado = await _categoriaService.EliminarAsync(id);
+
+        if (!eliminado)
+            return NotFound();
+
+        return NoContent();
     }
 }
